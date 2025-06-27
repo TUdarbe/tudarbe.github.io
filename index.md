@@ -6,14 +6,15 @@
 
 ## 💼 Work Experience
 
-**Backend Engineer** - **Mar.2023 - Present  
+**Backend Engineer** &emsp; **Mar. 2023 – Present**  
 Maple Leaf Sports & Entertainment Partnership
 
-**Full Stack Developer** - Sep.2020 - Sep.2022
+**Full Stack Developer** &emsp; **Sep. 2020 – Sep. 2022**  
 Rismans
 
-**Software Developer Intern** - Sep.2019 - Dec.2019
+**Software Developer Intern** &emsp; **Sep. 2019 – Dec. 2019**  
 ParTech
+
 
 
 
