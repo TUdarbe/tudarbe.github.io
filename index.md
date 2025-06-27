@@ -12,7 +12,7 @@
 
 ## 💼 Work Experience
 
-<div id="experience"
+<div id="experience">
 **Backend Engineer**    **Mar. 2023 – Present**  
 Maple Leaf Sports & Entertainment Partnership
 
@@ -23,6 +23,7 @@ Rismans
 ParTech
 
 </div>
+
 ---
 
 
