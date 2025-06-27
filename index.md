@@ -1,6 +1,6 @@
 # Contact
 
-I’m a software engineer currently building interactive experiences and web applications for fans of the Toronto Maple Leafs and Toronto Raptors a [MLSE Digital Labs](https://www.mlsedigital.com/).
+👋 Hi! I’m Troy, I’m a software engineer currently building interactive experiences and web applications for fans of the Toronto Maple Leafs and Toronto Raptors at [MLSE Digital Labs](https://www.mlsedigital.com/).
 
 <p>
 📧 <a href="mailto:troyudarbe@gmail.com">troyudarbe@gmail.com</a> | 🏢 <a href="https://www.linkedin.com/in/troyudarbe/">LinkedIn</a> | 💻 <a href="https://github.com/troyudarbe">GitHub</a>
@@ -8,13 +8,13 @@ I’m a software engineer currently building interactive experiences and web app
 
 ## 💼 Work Experience
 
-**Backend Engineer** &emsp; **Mar. 2023 – Present**  
+**Backend Engineer** &emsp; -  **Mar. 2023 – Present**  
 Maple Leaf Sports & Entertainment Partnership
 
-**Full Stack Developer** &emsp; **Sep. 2020 – Sep. 2022**  
+**Full Stack Developer** &emsp; -  **Sep. 2020 – Sep. 2022**  
 Rismans
 
-**Software Developer Intern** &emsp; **Sep. 2019 – Dec. 2019**  
+**Software Developer Intern** &emsp; -  **Sep. 2019 – Dec. 2019**  
 ParTech
 
 
@@ -23,8 +23,7 @@ ParTech
 ## 🛠 Projects
 
 ### [Northlinecards](https://www.northlinecards.ca)  
-Created a card search platform for the One Piece TCG using Python, React, and Supabase. Built data pipelines with Scrapy and Dagster, deployed on Vercel, and tracked user analytics with Posthog.
-
+Created a card search platform for the One Piece TCG using Python, React, and Supabase.
 
 
 ## 🧠 Skills
