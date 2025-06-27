@@ -1,5 +1,7 @@
 # Contact
 
+I’m a software engineer currently building interactive experiences and web applications for fans of the Toronto Maple Leafs and Toronto Raptors a [MLSE Digital Labs](https://www.mlsedigital.com/).
+
 <p>
 📧 <a href="mailto:troyudarbe@gmail.com">troyudarbe@gmail.com</a> | 🏢 <a href="https://www.linkedin.com/in/troyudarbe/">LinkedIn</a> | 💻 <a href="https://github.com/troyudarbe">GitHub</a>
 </p>
