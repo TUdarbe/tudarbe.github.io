@@ -5,33 +5,31 @@ img[alt="Logo"] {
   object-fit: cover;
   margin-bottom: 5px;
 }
-
-#experience .entry {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 1.5rem;
-}
-
-#experience .entry .left-right {
+#experience .left-right {
   display: flex;
   justify-content: space-between;
-  font-weight: 600;
+  align-items: baseline;
+  margin-bottom: 0.25rem;
 }
 
 #experience .left {
-  font-weight: 600;
+  font-weight: bold;       /* Bold and black */
+  color: #000;
+  font-size: 1rem;
 }
 
 #experience .right {
   color: #666;
+  font-weight: normal;
+  font-size: 0.95rem;
+  white-space: nowrap;
 }
 
 #experience .company {
-  color: #999;
+  color: #666;
   font-size: 0.9rem;
   padding-left: 2px;
 }
-
 
 
 
