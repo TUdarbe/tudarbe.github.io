@@ -14,20 +14,26 @@
 
 <div id="experience">
   <div class="entry">
-    <span class="left">Backend Engineer</span>
-    <span class="right">Mar. 2023 – Present</span><br>
+    <div class="left-right">
+      <span class="left">Backend Engineer</span>
+      <span class="right">Mar. 2023 – Present</span>
+    </div>
     <span class="company">Maple Leaf Sports & Entertainment Partnership</span>
   </div>
 
   <div class="entry">
-    <span class="left">Full Stack Developer</span>
-    <span class="right">Sep. 2020 – Sep. 2022</span><br>
+    <div class="left-right">
+      <span class="left">Full Stack Developer</span>
+      <span class="right">Sep. 2020 – Sep. 2022</span>
+    </div>
     <span class="company">Rismans</span>
   </div>
 
   <div class="entry">
-    <span class="left">Software Developer Intern</span>
-    <span class="right">Sep. 2019 – Dec. 2019</span><br>
+    <div class="left-right">
+      <span class="left">Software Developer Intern</span>
+      <span class="right">Sep. 2019 – Dec. 2019</span>
+    </div>
     <span class="company">ParTech</span>
   </div>
 </div>
