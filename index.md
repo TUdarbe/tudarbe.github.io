@@ -13,23 +13,23 @@
 ## 💼 Work Experience
 
 <div id="experience">
-  <p>
-    <span class="title">Backend Engineer</span>
-    <span class="date">Mar. 2023 – Present</span><br>
-    Maple Leaf Sports & Entertainment Partnership
-  </p>
+  <div class="entry">
+    <span class="left">Backend Engineer</span>
+    <span class="right">Mar. 2023 – Present</span><br>
+    <span class="company">Maple Leaf Sports & Entertainment Partnership</span>
+  </div>
 
-  <p>
-    <span class="title">Full Stack Developer</span>
-    <span class="date">Sep. 2020 – Sep. 2022</span><br>
-    Rismans
-  </p>
+  <div class="entry">
+    <span class="left">Full Stack Developer</span>
+    <span class="right">Sep. 2020 – Sep. 2022</span><br>
+    <span class="company">Rismans</span>
+  </div>
 
-  <p>
-    <span class="title">Software Developer Intern</span>
-    <span class="date">Sep. 2019 – Dec. 2019</span><br>
-    ParTech
-  </p>
+  <div class="entry">
+    <span class="left">Software Developer Intern</span>
+    <span class="right">Sep. 2019 – Dec. 2019</span><br>
+    <span class="company">ParTech</span>
+  </div>
 </div>
 
 ---
