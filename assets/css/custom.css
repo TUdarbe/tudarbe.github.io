@@ -6,32 +6,4 @@ img[alt="Logo"] {
   margin-bottom: 5px;
 }
 
-.experience {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  margin-top: 1rem;
-}
-
-.job {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: baseline;
-  row-gap: 0.2rem;
-}
-
-.title {
-  font-weight: bold;
-}
-
-.date {
-  text-align: right;
-  font-weight: bold;
-}
-
-.company {
-  grid-column: 1 / -1;
-  padding-left: 2px;
-  color: #666;
-}
 
