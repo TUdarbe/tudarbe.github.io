@@ -1,27 +1,35 @@
-# About
+# Contact
 
-📧 [troyudarbe@gmail.com](mailto:troyudarbe@gmail.com) | 🏢 [LinkedIn](https://www.linkedin.com/in/troyudarbe/)
+<p>
+📧 <a href="mailto:troyudarbe@gmail.com">troyudarbe@gmail.com</a> | 🏢 <a href="https://www.linkedin.com/in/troyudarbe/">LinkedIn</a> | 💻 <a href="https://github.com/troyudarbe">GitHub</a>
+</p>
 
 ## 💼 Work Experience
 
-**Mar 2023 – Present**  **Backend Engineer**  
+**Backend Engineer** - **Mar.2023 - Present  
 Maple Leaf Sports & Entertainment Partnership
 
-**Sep 2020 – Sep 2022**  **Full Stack Developer**  
+**Full Stack Developer** - Sep.2020 - Sep.2022
 Rismans
 
-**Sep 2019 – Dec 2019**  **Software Developer Intern**  
+**Software Developer Intern** - Sep.2019 - Dec.2019
 ParTech
+
+
 
 ## 🛠 Projects
 
 ### [Northlinecards](https://www.northlinecards.ca)  
 Created a card search platform for the One Piece TCG using Python, React, and Supabase. Built data pipelines with Scrapy and Dagster, deployed on Vercel, and tracked user analytics with Posthog.
 
+
+
 ## 🧠 Skills
 
 **Languages/Frameworks**: Python, TypeScript, Node.js, React  
 **Tools/Platforms**: AWS, Postgres, Supabase, Kubernetes, Git, Dagster, Scrapy
+
+
 
 ## 🎓 Education
 
