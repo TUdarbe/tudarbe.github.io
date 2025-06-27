@@ -7,9 +7,8 @@ img[alt="Logo"] {
 }
 
 #experience .entry {
-  margin-bottom: 1.5rem;
-  border-left: 2px solid #ccc;
-  padding-left: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 0;
 }
 
 #experience .left-right {
