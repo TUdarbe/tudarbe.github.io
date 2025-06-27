@@ -1,23 +1,21 @@
 # About
 
-📧 [troyudarbe@gmail.com](mailto:troyudarbe@gmail.com) | 🏢  [LinkedIn](https://www.linkedin.com/in/troyudarbe/)
-
----
+📧 [troyudarbe@gmail.com](mailto:troyudarbe@gmail.com) | 🏢 [LinkedIn](https://www.linkedin.com/in/troyudarbe/)
 
 ## 💼 Work Experience
 
-### **Backend Engineer** — MLSE *(Mar 2023 – Present)*  
-**Toronto, Canada**  
+**Mar 2023 – Present**  **Backend Engineer**  
+&emsp;MLSE (Maple Leaf Sports & Entertainment Partnership)
 
 ---
 
-### **Full Stack Developer** — Rismans *(Sep 2020 – Sep 2022)*  
-**Toronto, Canada**  
+**Sep 2020 – Sep 2022**  **Full Stack Developer**  
+&emsp;Rismans
 
 ---
 
-### **Software Developer Intern** — ParTech *(Sep 2019 – Dec 2019)*  
-**Markham, Canada**  
+**Sep 2019 – Dec 2019**  **Software Developer Intern**  
+&emsp;ParTech
 
 ---
 
