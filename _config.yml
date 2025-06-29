@@ -3,6 +3,7 @@ description: Software Engineer 📍 Toronto, Canada
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/img/avatar.jpeg
-github_username: false
+github:
+ is_user_page: false
 plugins:
 - jekyll-remote-theme
